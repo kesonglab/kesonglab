@@ -24,23 +24,23 @@
 
 I'm a researcher working at the intersection of **medical imaging** and **artificial intelligence**. Beyond the lab, I enjoy turning everyday ideas into neat little tools.
 
-- 🩺 **Medical imaging researcher** — focused on AI-assisted analysis & diagnosis
-- 🛠️ **Tool maker** — building small, practical utilities that make life easier
-- 🧠 **Continuous learner** — always exploring elegant code and meaningful science
+- **Medical imaging researcher** — focused on AI-assisted analysis & diagnosis
+- **Tool maker** — building small, practical utilities that make life easier
+- **Continuous learner** — always exploring elegant code and meaningful science
 
-## 🔬 Research Interests
+## Research Interests
 
-- 🖼️ **Medical Image Analysis** — segmentation · classification · detection
-- 🤖 **Deep Learning in Healthcare** — model interpretability · transfer learning
-- 📊 **Clinical Data Science** — reproducible pipelines · visualization
+- **Medical Image Analysis** — segmentation · classification · detection
+- **Deep Learning in Healthcare** — model interpretability · transfer learning
+- **Clinical Data Science** — reproducible pipelines · visualization
 
-## 🛠️ My Tools & Projects
+## My Tools & Projects
 
 > *"Tools should be simple enough to use, and clever enough to help."*
 
 Here you'll find small, focused utilities I've built for fun and for research — from sensor-based experiments to data pipelines. More experiments are always on the way ✨
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/kesonglab"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a>
