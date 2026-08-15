@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- 顶部装饰 -->
-<img src="https://user-images.githubusercontent.com/000000/000000-0000-0000-0000-000000000000.png" width="1" height="1" />
-
 <h1 align="center">Hi, I'm kesonglab ✨</h1>
 
 <p align="center">
