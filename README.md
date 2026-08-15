@@ -7,16 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Medical%20Imaging-f8b4c8?style=flat-square&logo=medical&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-c9a7eb?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-9b5de5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Swift-f1a7c5?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-8ecae6?style=flat-square&logo=go&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kesonglab&show_icons=true&theme=radical&hide_border=true&bg_color=fff5f8" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kesonglab&layout=compact&theme=radical&hide_border=true&bg_color=fff5f8" height="160" />
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white" /></a>
+  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+  <a href="https://www.swift.org"><img src="https://img.shields.io/badge/Swift-f1a7c5?style=for-the-badge&logo=swift&logoColor=white" /></a>
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-8ecae6?style=for-the-badge&logo=go&logoColor=white" /></a>
 </p>
 
 ---
@@ -36,36 +30,21 @@ I'm a researcher working at the intersection of **medical imaging** and **artifi
 
 ## 🔬 Research Interests
 
-| | |
-|---|---|
-| 🖼️ **Medical Image Analysis** | segmentation · classification · detection |
-| 🤖 **Deep Learning in Healthcare** | model interpretability · transfer learning |
-| 📊 **Clinical Data Science** | reproducible pipelines · visualization |
+- 🖼️ **Medical Image Analysis** — segmentation · classification · detection
+- 🤖 **Deep Learning in Healthcare** — model interpretability · transfer learning
+- 📊 **Clinical Data Science** — reproducible pipelines · visualization
 
 ## 🛠️ My Tools & Projects
 
-<details>
-<summary><b>💡 Recently exploring</b></summary>
-
-<br>
-
 > *"Tools should be simple enough to use, and clever enough to help."*
 
-</details>
-
-<p align="center">
-  <i>More experiments are always on the way — stay tuned ✨</i>
-</p>
+Here you'll find small, focused utilities I've built for fun and for research — from sensor-based experiments to data pipelines. More experiments are always on the way ✨
 
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://github.com/kesonglab"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/-Let's%20Talk!-f8b4c8?style=for-the-badge&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kesonglab&color=f8b4c8&style=flat-square&label=visitors" />
+  <img src="https://img.shields.io/badge/Lets%20Talk-f8b4c8?style=for-the-badge&logoColor=white" />
 </p>
 
 <div align="center">
