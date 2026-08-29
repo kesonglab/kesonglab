@@ -1,56 +1,65 @@
-<div align="center">
+# kesonglab
 
-<h1 align="center">Hi, I'm kesonglab ✨</h1>
+A researcher in the intersection of **medical imaging** and **applied artificial intelligence**, and an
+occasional toolmaker who believes good software should be neither noisy nor empty — precise, deliberate,
+and just a little bit indulgent.
+
+| | |
+| --- | --- |
+| Field | Medical Imaging · AI-assisted Diagnosis · Clinical Data Science |
+| Craft | Python · PyTorch · Swift · Go |
+| Disposition | Unhurried, a little particular, unapologetically fond of things built well |
 
 <p align="center">
-  <em>Medical Imaging · AI · Lifelong Learner</em>
-</p>
-
-<p align="center">
-  <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <a href="https://pytorch.org"><img src="https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://www.swift.org"><img src="https://img.shields.io/badge/Swift-f1a7c5?style=for-the-badge&logo=swift&logoColor=white" /></a>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/Go-8ecae6?style=for-the-badge&logo=go&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-f1a7c5?style=for-the-badge&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/Go-8ecae6?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
 ---
 
-</div>
+## About
 
-## 🌸 About Me
+I spend most of my time teaching machines to read scans and to reason about them quietly — segmentation,
+classification, detection, and the less glamorous but far more consequential discipline of making those
+models reproducible, explainable, and honest about their uncertainty.
 
-> 一个在医学影像与人工智能交叉领域深耕的研究者，
-> 业余时间里喜欢把灵感做成好用的小工具。
-
-I'm a researcher working at the intersection of **medical imaging** and **artificial intelligence**. Beyond the lab, I enjoy turning everyday ideas into neat little tools.
-
-- **Medical imaging researcher** — focused on AI-assisted analysis & diagnosis
-- **Tool maker** — building small, practical utilities that make life easier
-- **Continuous learner** — always exploring elegant code and meaningful science
+Away from the lab, I build small software the way I build my workstation: nothing showy, everything
+considered. The projects I publish are not proofs of identity; they are simply instruments I wanted to
+be better, so I made them that way.
 
 ## Research Interests
 
 - **Medical Image Analysis** — segmentation · classification · detection
-- **Deep Learning in Healthcare** — model interpretability · transfer learning
+- **Deep Learning in Healthcare** — interpretability · transfer learning · uncertainty
 - **Clinical Data Science** — reproducible pipelines · visualization
 
-## My Tools & Projects
+## Selected Work
 
-> *"Tools should be simple enough to use, and clever enough to help."*
+### [queen](https://github.com/kesonglab/queen) — A macOS video downloader
+A terminal-native downloader for macOS built on `yt-dlp`, rendered with Bubble Tea and Lip Gloss.
+Concurrent multi-task downloads, per-task progress rendered at fixed width so the numbers never
+judder, bilingual interface, native notifications, and a failure log that actually respects your time.
+*Go · MIT*
 
-Here you'll find small, focused utilities I've built for fun and for research — from sensor-based experiments to data pipelines. More experiments are always on the way ✨
+### [spank](https://github.com/kesonglab/spank) — A small act of discipline for your hardware
+Fork of the classic slap-detection engine, rebuilt with a native macOS menu-bar GUI (Swift + AppKit).
+It reads the Apple Silicon accelerometer over IOKit HID and answers a physical hit with escalating,
+increasingly enthusiastic audio. The engine belongs to the original author; the polish here is mine.
+*Swift · Go · MIT*
 
-## Let's Connect
+### [ghostty-config](https://github.com/kesonglab/ghostty-config) — A configuration carried with intent
+A single-file Ghostty configuration for macOS: JetBrainsMono Nerd Font with PingFang SC fallback for
+clean CJK rendering, light/dark theme that follows the system, translucent window, and keybindings
+borrowed from iTerm2. The terminal is where I live; I prefer it furnished.
+*Ghostty · MIT*
 
-<p align="center">
-  <a href="https://github.com/kesonglab"><img src="https://img.shields.io/badge/GitHub-2d2d2d?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Lets%20Talk-f8b4c8?style=for-the-badge&logoColor=white" />
-</p>
+## Notes on Craft
 
-<div align="center">
+- Write the smallest thing that solves the problem; delete the rest.
+- Badges are fine; claims of making a "difference" are reserved for journals.
+- If a tool needs a tutorial, it is not finished.
 
----
-
-*Crafted with 💗 by kesonglab*
-
-</div>
+<sub>A quiet engineer who would rather prove it than promise it. And yes — I remain a little too fond of
+things that are built well.</sub>
