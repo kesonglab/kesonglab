@@ -42,18 +42,21 @@ so I made them that way.
 ## Selected work
 
 ### [queen](https://github.com/kesonglab/queen) — a macOS video downloader
+
 A terminal-native downloader built on `yt-dlp` and rendered with Bubble Tea and Lip Gloss. Concurrent
 downloads, per-task progress locked to a fixed width so the numbers never judder, a bilingual interface,
 native notifications, and a failure log that actually respects your time.
 *Go · MIT*
 
 ### [spank](https://github.com/kesonglab/spank) — a small act of discipline for your hardware
+
 A fork of the classic slap-detection engine, rebuilt with a native macOS menu-bar GUI (Swift + AppKit,
 with a Go engine). It reads the Apple Silicon accelerometer over IOKit HID and answers a physical hit
 with escalating, increasingly enthusiastic audio. The engine is the original author's; the polish is mine.
 *Swift · Go · MIT*
 
 ### [ghostty-config](https://github.com/kesonglab/ghostty-config) — a configuration kept with intent
+
 A single-file Ghostty config for macOS: JetBrainsMono Nerd Font with a PingFang SC fallback for clean CJK
 rendering, a theme that follows the system, a translucent window, and iTerm2-flavored keybindings. The
 terminal is where I live; I'd rather not live somewhere shabby. Maintained with CI that validates the
