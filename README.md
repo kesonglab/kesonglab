@@ -76,7 +76,7 @@ you're done.
 
 If a tool is worth using, it's worth leaving a little better than I found it.
 
-## Code review · 近期审查与协作
+## Code review
 
 Things I recently took from idea to merge — branch, review, CI, homing in on the details, then a clean
 squash. Every step green before it moved on.
