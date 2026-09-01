@@ -48,13 +48,6 @@ downloads, per-task progress locked to a fixed width so the numbers never judder
 native notifications, and a failure log that actually respects your time.
 *Go · MIT*
 
-### [spank](https://github.com/kesonglab/spank) — a small act of discipline for your hardware
-
-A fork of the classic slap-detection engine, rebuilt with a native macOS menu-bar GUI (Swift + AppKit,
-with a Go engine). It reads the Apple Silicon accelerometer over IOKit HID and answers a physical hit
-with escalating, increasingly enthusiastic audio. The engine is the original author's; the polish is mine.
-*Swift · Go · MIT*
-
 ### [ghostty-config](https://github.com/kesonglab/ghostty-config) — a configuration kept with intent
 
 A single-file Ghostty config for macOS: JetBrainsMono Nerd Font with a PingFang SC fallback for clean CJK
