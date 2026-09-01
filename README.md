@@ -32,13 +32,6 @@ When I'm not at the bench, I build small software the way I furnish a room: noth
 intentional. The things I publish aren't badges of identity. They're just tools I wanted to be better,
 so I made them that way.
 
-## What I reach for
-
-- **Medical image analysis** — segmentation · classification · detection
-- **Deep learning for healthcare** — interpretability · transfer learning · uncertainty
-- **Clinical data science** — reproducible pipelines · visualization
-- **Terminal-native tooling** — Go TUI, sensors, and small automation that disappears into the workflow
-
 ## Selected work
 
 ### [queen](https://github.com/kesonglab/queen) — a macOS video downloader
