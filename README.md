@@ -83,32 +83,3 @@ If a tool is worth using, it's worth leaving a little better than I found it.
 
 *Made with care, and a touch of indulgence, by kesonglab.*
 </div>
-
-<details>
-<summary><b>简体中文</b></summary>
-
-## 关于我
-
-我在医学里更安静的一端工作——教机器读影像，并诚实面对它们会出错的那些部分。没有校园、没有终身教职的倒计时、
-没有一个需要取悦的委员会：只有一个我自己搭建的家庭实验室，那里的工作只对证据负责。
-
-分割、分类、检测，以及所有这些背后默默无闻的纪律——让模型**可复现、可解释、并愿意承认自己的不确定性**。
-这才是我真正在乎的部分。
-
-不在实验室的时候，我像布置房间一样做点小小的软件：没什么响亮的，每样都经过斟酌。我发布的东西不是身份的徽章，
-它们只是我想让它们变得更好的工具，所以我把它们做成了那样。
-
-## 精选作品
-
-- **[queen](https://github.com/kesonglab/queen)** —— 一个 macOS 终端视频下载器，基于 `yt-dlp`，用 Bubble Tea / Lip Gloss 渲染。
-- **[spank](https://github.com/kesonglab/spank)** —— 对硬件的一点小惩戒：读 Apple Silicon 加速度计，挨打就喊，越喊越热情。
-- **[ghostty-config](https://github.com/kesonglab/ghostty-config)** —— 一份带着意图维护的 Ghostty 终端配置。
-
-## 开源
-
-我在开放中构建，也在工具让我失望时把修复送回上游。我正专注于为私人搜索引擎
-[hister](https://github.com/asciimoo/hister) 回馈代码（见
-[PR #712](https://github.com/asciimoo/hister/pull/712)）。
-
-一个值得使用的工具，就值得被我留下一点点改进。
-</details>
