@@ -80,6 +80,11 @@ squash. Every step green before it moved on.
 - `ghostty-config` **v0.2.0** — cut a release whose notes came out of the CHANGELOG, no drift.
 - *Workflow discipline:* branch → PR → CI green → squash → prune, every time. Config + docs ship in one atomic PR.
 
+Reviews offered upstream — code handed back with the polish applied, not just a verdict:
+
+- [`averygan/reclip` **#58**](https://github.com/averygan/reclip/pull/58) — approved a yt-dlp argument-injection (RCE) fix after reproducing the `--` separator defense locally against yt-dlp 2026.08.19; suggested hardening `is_safe_url` against RFC-1918/loopback hosts.
+- [`averygan/reclip` **#47**](https://github.com/averygan/reclip/pull/47) — reviewed the m4a-preference audio selector; flagged a consistency gap in the generic merge branch and overlap with #29.
+
 ## On making
 
 - Write the smallest thing that solves the problem, then delete what remains.
