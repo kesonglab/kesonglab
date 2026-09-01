@@ -4,14 +4,15 @@
 
 *machine-whisperer · instrument-maker · a little too fond of beautiful things*
 
-![](https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/Go-8ecae6?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Swift-f1a7c5?style=for-the-badge&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/Ghostty-efe1c6?style=for-the-badge&logo=terminal&logoColor=white)
-![](https://img.shields.io/badge/BubbleTea-9b5de5?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/LipGloss-577590?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/macOS-577590?style=for-the-badge&logo=apple&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-8ecae6?style=for-the-badge&logo=go&logoColor=white)]()
+[![Swift](https://img.shields.io/badge/Swift-f1a7c5?style=for-the-badge&logo=swift&logoColor=white)]()
+
+[![Ghostty](https://img.shields.io/badge/Ghostty-efe1c6?style=for-the-badge&logo=terminal&logoColor=white)]()
+[![BubbleTea](https://img.shields.io/badge/BubbleTea-9b5de5?style=for-the-badge&logo=go&logoColor=white)]()
+[![LipGloss](https://img.shields.io/badge/LipGloss-577590?style=for-the-badge&logo=go&logoColor=white)]()
+[![macOS](https://img.shields.io/badge/macOS-577590?style=for-the-badge&logo=apple&logoColor=white)]()
 
 </div>
 
@@ -69,6 +70,16 @@ honest record of that; the work that currently matters most is on
 a semantic search returns no results.
 
 If a tool is worth using, it's worth leaving a little better than I found it.
+
+## Code review · 近期审查与协作
+
+Things I recently took from idea to merge — branch, review, CI, homing in on the details, then a clean
+squash. Every step green before it moved on.
+
+- `ghostty-config` **#2** — `feat:` default working directory for new windows. `+validate-config` clean on both macOS runners, then merged.
+- `ghostty-config` **#3** — `docs:` synced README & CHANGELOG to match; markdownlint, zero warnings.
+- `ghostty-config` **v0.2.0** — cut a release whose notes came out of the CHANGELOG, no drift.
+- *Workflow discipline:* branch → PR → CI green → squash → prune, every time. Config + docs ship in one atomic PR.
 
 ## On making
 
