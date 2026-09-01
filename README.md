@@ -69,10 +69,11 @@ I build things in the open and I send fixes back upstream when the tools I use l
 [contribution history](https://github.com/kesonglab?tab=overview) is the
 honest record of that; the work that currently matters most is on
 [hister](https://github.com/asciimoo/hister), a private search engine. When a semantic search
-comes back empty, the sliders that tune the similarity threshold are exactly what you need — so
-[PR #712](https://github.com/asciimoo/hister/pull/712) brings them into the empty-results state, and
-debounces the re-search so lowering the threshold mid-drag doesn't tear the controls away before
-you're done.
+comes back empty, the one control that can recover results is the similarity slider — so
+[PR #712](https://github.com/asciimoo/hister/pull/712) brings it into the empty-results state.
+The re-search is debounced so lowering the threshold mid-drag doesn't tear the control away before
+you're done, and the empty state shows only the threshold slider (the weight slider, which only
+re-ranks existing results, stays in the Actions menu where it means something).
 
 If a tool is worth using, it's worth leaving a little better than I found it.
 
