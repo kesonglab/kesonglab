@@ -65,9 +65,11 @@ config on every change.
 I build things in the open and I send fixes back upstream when the tools I use let me down. My
 [contribution history](https://github.com/kesonglab?tab=overview) is the
 honest record of that; the work that currently matters most is on
-[hister](https://github.com/asciimoo/hister), a private search engine — see
-[PR #712](https://github.com/asciimoo/hister/pull/712) making the similarity threshold adjustable when
-a semantic search returns no results.
+[hister](https://github.com/asciimoo/hister), a private search engine. When a semantic search
+comes back empty, the sliders that tune the similarity threshold are exactly what you need — so
+[PR #712](https://github.com/asciimoo/hister/pull/712) brings them into the empty-results state, and
+debounces the re-search so lowering the threshold mid-drag doesn't tear the controls away before
+you're done.
 
 If a tool is worth using, it's worth leaving a little better than I found it.
 
