@@ -20,8 +20,8 @@
 
 ## About me
 
-I'm a radiologist, mostly. Now and then I build a small tool, or train a model on medical images.
-Small work, done slowly, and checked against the evidence.
+I'm a doctor in the imaging department, mostly. Now and then I build a small tool, or train a model
+on medical images. Small work, done slowly, and checked against the evidence.
 
 ## Selected work
 
