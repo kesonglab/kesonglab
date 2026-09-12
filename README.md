@@ -2,7 +2,7 @@
 
 # kesonglab
 
-*machine-whisperer · instrument-maker · a little too fond of beautiful things*
+*I read quiet images, and teach small machines to read them too.*
 
 [![Python](https://img.shields.io/badge/Python-9b5de5?style=for-the-badge&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-c9a7eb?style=for-the-badge&logo=pytorch&logoColor=white)]()
@@ -20,17 +20,8 @@
 
 ## About me
 
-I work at the quieter end of medicine — teaching machines to read scans, and to be honest about the
-parts they get wrong. No campus, no tenure clock, no committee to satisfy: just a home laboratory I run
-myself, where the work answers to no one but the evidence.
-
-Segmentation, classification, detection, and the unglamorous discipline underneath all of them —
-making models **reproducible, explainable, and willing to admit their own uncertainty**. That is the
-part I actually care about.
-
-When I'm not at the bench, I build small software the way I furnish a room: nothing loud, everything
-intentional. The things I publish aren't badges of identity. They're just tools I wanted to be better,
-so I made them that way.
+I'm a radiologist, mostly. Now and then I build a small tool, or train a model on medical images.
+Small work, done slowly, and checked against the evidence.
 
 ## Selected work
 
@@ -48,20 +39,6 @@ rendering, a theme that follows the system, a translucent window, and iTerm2-fla
 terminal is where I live; I'd rather not live somewhere shabby. Maintained with CI that validates the
 config on every change.
 *Ghostty · MIT*
-
-## Open source
-
-I build things in the open and I send fixes back upstream when the tools I use let me down. My
-[contribution history](https://github.com/kesonglab?tab=overview) is the
-honest record of that; the work that currently matters most is on
-[hister](https://github.com/asciimoo/hister), a private search engine. When a semantic search
-comes back empty, the one control that can recover results is the similarity slider — so
-[PR #712](https://github.com/asciimoo/hister/pull/712) brings it into the empty-results state.
-The re-search is debounced so lowering the threshold mid-drag doesn't tear the control away before
-you're done, and the empty state shows only the threshold slider (the weight slider, which only
-re-ranks existing results, stays in the Actions menu where it means something).
-
-If a tool is worth using, it's worth leaving a little better than I found it.
 
 ## Code review
 
