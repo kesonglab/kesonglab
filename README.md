@@ -52,8 +52,9 @@ squash. Every step green before it moved on.
 
 Reviews offered upstream — code handed back with the polish applied, not just a verdict:
 
-- [`averygan/reclip` **#58**](https://github.com/averygan/reclip/pull/58) — approved a yt-dlp argument-injection (RCE) fix after reproducing the `--` separator defense locally against yt-dlp 2026.08.19; suggested hardening `is_safe_url` against RFC-1918/loopback hosts.
-- [`averygan/reclip` **#47**](https://github.com/averygan/reclip/pull/47) — reviewed the m4a-preference audio selector; flagged a consistency gap in the generic merge branch and overlap with #29.
+- [`Project-MONAI/MONAI` **#9134**](https://github.com/Project-MONAI/MONAI/pull/9134) — approved a MeanIoU `ignore_index` fix after reproducing the old channel-wipe path (class-0 IoU ≈0.67 on the ignored voxel → 1.0 after spatial masking, matching Dice); suggested an `include_background=False` assertion to lock the mask-vs-channel interaction.
+- [`averygan/reclip` **#79**](https://github.com/averygan/reclip/pull/79) — reviewed a yt-dlp `--` separator-only injection fix against yt-dlp 2026.08.19; confirmed all three call sites, and pointed out it is a weaker subset of #58 (no `is_safe_url` early reject).
+- [`spotDL/spotify-downloader` **#2795**](https://github.com/spotDL/spotify-downloader/pull/2795) — reviewed a YouTube Music locale-fallback retry (`en`/`de` client cycling); flagged the silent `de→en` default flip, the duplicated third attempt, and the missing mock regression test.
 
 ## On making
 
