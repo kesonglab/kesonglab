@@ -1,7 +1,7 @@
-### <img height="28" src="https://glitch-art.vercel.app/api/simple?word=Hi%2C%20I%27m%20kesonglab&font=Doto" /> 👋
+### <img height="28" alt="Hi, I'm kesonglab" src="https://glitch-art.vercel.app/api/simple?word=Hi%2C%20I%27m%20kesonglab&font=Doto" /> 👋
 
 <picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=kesonglab&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right" />
+  <img alt="kesonglab GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kesonglab&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right" />
 </picture>
 
 A doctor in medical imaging, based in Hong Kong.
