@@ -38,9 +38,9 @@ A single static page: 京華老宋体 typography, hand-drawn calligraphy, and tr
 
 A private macOS monitor for a clinical imaging queue — the quiet kind of tool: it watches, it whispers when something new arrives, and it stays out of the way otherwise. Also: segmentation models on medical images, slowly.
 
-## Elsewhere
+## Code review
 
-Occasional upstream reviews and small fixes — [GitHub activity](https://github.com/kesonglab).
+Occasionally I review upstream work when it touches medical imaging. One recent example: [`Project-MONAI/MONAI` #9134](https://github.com/Project-MONAI/MONAI/pull/9134) — a MeanIoU `ignore_index` fix. I reproduced the old channel-wipe behaviour, checked the masked result, and suggested an `include_background=False` assertion to keep the mask/background interaction from regressing.
 
 ## On making
 
